@@ -2,7 +2,7 @@
 """
 Created on Fri Dec  8 01:47:14 2017
 
-@author: Pampa Kid
+@author: mawxder
 """
 
 # Import randint
